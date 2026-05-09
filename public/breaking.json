@@ -1,0 +1,92 @@
+{
+    "status": "success",
+    "totalResults": 6,
+    "lastUpdated": "2026-04-28T23:10:00Z",
+    "news": [
+        {
+            "id": "js-001",
+            "category": "Politics",
+            "location": "Dhaka, Bangladesh",
+            "title": "Uproar in Parliament Over Fazlur Rahman's 1971 War Remarks",
+            "summary": "BNP lawmaker Fazlur Rahman (Kishoreganj-4) sparked a heated debate today by stating that families of 1971 martyrs and freedom fighters cannot join Jamaat-e-Islami, calling it a 'double offense.' He further stirred controversy by comparing the 1971 Liberation War to the 'Pacific Ocean' and the August 5 uprising to a 'well,' arguing the two should not be equated.",
+            "source": "BSS / UNB",
+            "timestamp": "2026-04-28T18:30:00Z",
+            "tags": [
+                "Parliament",
+                "Liberation War",
+                "Fazlur Rahman",
+                "Politics"
+            ]
+        },
+        {
+            "id": "bn-002",
+            "category": "National",
+            "location": "Bangladesh",
+            "title": "Bangladesh Enters Nuclear Era: Rooppur Plant Begins Fuel Loading",
+            "summary": "The Rooppur Nuclear Power Plant officially moved into the startup phase today. Unit-1 began loading fuel into the reactor core, making Bangladesh the third South Asian country to generate nuclear energy.",
+            "source": "Asia News Network",
+            "timestamp": "2026-04-28T13:00:00Z",
+            "tags": [
+                "Energy",
+                "Nuclear",
+                "Infrastructure"
+            ]
+        },
+        {
+            "id": "gl-003",
+            "category": "World",
+            "location": "Global",
+            "title": "US Rejects Iranian Proposal to End Middle East Conflict",
+            "summary": "The Trump administration indicated it is unlikely to accept Iran's latest offer to reopen the Strait of Hormuz, citing concerns over nuclear weapon development.",
+            "source": "Morningstar / AP",
+            "timestamp": "2026-04-28T20:54:00Z",
+            "tags": [
+                "Geopolitics",
+                "Conflict",
+                "Diplomacy"
+            ]
+        },
+        {
+            "id": "tech-004",
+            "category": "Technology",
+            "location": "Silicon Valley",
+            "title": "Google Signs Landmark AI Deal with the Pentagon",
+            "summary": "Google finalized a partnership with the U.S. Defense Department for AI research, sparking internal debate regarding the ethical implications of classified military projects.",
+            "source": "Business Insider",
+            "timestamp": "2026-04-28T16:32:00Z",
+            "tags": [
+                "AI",
+                "Google",
+                "Defense"
+            ]
+        },
+        {
+            "id": "eco-005",
+            "category": "Economy",
+            "location": "Morocco",
+            "title": "World Bank: Morocco Reforms Could Generate 1.7 Million Jobs",
+            "summary": "A new report highlights that structural reforms in Morocco could increase real GDP by 20% and create millions of jobs for youth and women by 2035.",
+            "source": "World Bank",
+            "timestamp": "2026-04-28T13:00:00Z",
+            "tags": [
+                "Economy",
+                "Jobs",
+                "Development"
+            ]
+        },
+        {
+            "id": "dev-006",
+            "category": "DevTools",
+            "location": "Global",
+            "title": "Go Web Framework Survey: Gin and Echo Lead in 2026",
+            "summary": "Latest data from the GoLand team reveals that 46% of Go developers are building web services, with Gin remaining the most popular framework.",
+            "source": "JetBrains Blog",
+            "timestamp": "2026-04-28T11:00:00Z",
+            "tags": [
+                "Programming",
+                "GoLang",
+                "WebDev"
+            ]
+        }
+    ]
+}
