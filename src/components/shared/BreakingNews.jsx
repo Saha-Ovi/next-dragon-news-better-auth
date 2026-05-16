@@ -1,10 +1,12 @@
 import React from 'react';
 import Marquee from 'react-fast-marquee';
+import breakingNews from '../../data/breaking.json'
 
 const BreakingNews = async () => {
-    const res = await fetch('http://localhost:3000/breaking.json');
-    const data = await res.json();
-    const news =data.news;
+    // const res = await fetch('http://localhost:3000/breaking.json');
+    // const data = await res.json();
+    // console.log(breakingNews);
+    const news =breakingNews.news;
     // console.log(news);
 
     return (
